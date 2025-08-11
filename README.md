@@ -12,4 +12,7 @@ Tech Stack
 
 How to Use
 1. **View Online**:  
-   [Tableau Public Version](https://public.tableau.com/app/profile/liyana.shukur/viz/salesdashboard_17529410443680/Dashboard1?publish=yes) 
+   [Tableau Public Version](https://public.tableau.com/app/profile/liyana.shukur/viz/salesdashboard_17529410443680/Dashboard1?publish=yes)
+
+## 📸 Preview 📸 
+<img width="1332" height="1065" alt="Dashboard 1" src="https://github.com/user-attachments/assets/6f81dc87-bbf7-4519-b341-3648676fff37" />
